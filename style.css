@@ -1,0 +1,32 @@
+body {
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:/apple-temp.jpg
+   }
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22pt;
+    font-weight: bold;
+    font-kerning: normal;
+    color: darkgreen;
+    box-shadow: inset 0 0 6px;
+    align-content: center;
+    margin-top: 0pt;
+}
+h2{ font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18pt;
+    font-weight: bold;
+    font-kerning: normal;
+    color: darkgreen;
+    align-content: left;
+    }
+h3{font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14pt;
+    font-weight: bold;
+    font-kerning: normal;
+    color: darkgreen;
+    align-content: left;
+}
+ul {list-style: disc;
+}
+ol{list-style: circle;}
